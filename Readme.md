@@ -3,7 +3,7 @@ This box provide a Linux basic installation fully custumizable with puppet
 
 ## installation
 
-* Clone this repo [ git clone git@github.com:gpkfr/gpkfr-vbox4dev.git vbox4dev && cd vbox4dev ]
+* Clone this repo [ git clone git@github.com:gpkfr/gpkfr-vbox4php.git vbox4php && cd vbox4php ]
 * Execute [ git submodule init && git submodule update ] [required]
 * install additional puppet module as git submodule in modules directory [Optionnal]
 * create puppet manifest in manifest Directory [Optionnal]
